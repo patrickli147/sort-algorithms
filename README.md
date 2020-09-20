@@ -1,3 +1,5 @@
+预览：http://li_fuxin.gitee.io/sort-algorithms/dist/#/welcome/selectsort
+
 # sort
 
 ## Project setup
